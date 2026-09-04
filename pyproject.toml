@@ -1,5 +1,5 @@
 [project]
-name = "switch_auto_selector_any_five_by_steve_lasmin"
+name = "https://github.com/Eklipsis/switch-auto-selector-any-five-by-steve-lasmin"
 description = "A ComfyUI routing node that auto-selects exactly one active signal from 5 optional ANY inputs and routes it to the output. Raises a red-node error if zero or multiple signals are detected."
 version = "1.0.0"
 license = {text = "MIT"}
